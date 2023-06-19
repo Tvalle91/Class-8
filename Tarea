@@ -1,0 +1,11 @@
+Public static void main (String[] args){
+  class Persona = new Persona ();
+  Persona.SetEdad ("20");
+  Persona.SetNombre ("David");
+  Persona.SetTelefono ("1234455");
+  
+  System.outprintln (persona.getEdad ());
+  System.outprintln (persona.getNombre ());
+  System.outprintln (persona.getTelefono ());
+  
+ 
